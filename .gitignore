@@ -1,1 +1,3 @@
-.histfile
+*
+!/.zshrc
+!/README.md

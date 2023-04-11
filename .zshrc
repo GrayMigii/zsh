@@ -14,6 +14,7 @@ compinit
 # colored ls output
 alias ls='ls --color=auto'
 alias la='ls -A'
+alias lal='ls -Al'
 # zsh git info
 autoload -Uz vcs_info
 precmd_vcs_info() { vcs_info }
